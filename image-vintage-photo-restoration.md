@@ -13,9 +13,4 @@ Useful for:
 ## Prompt
 
 > Reimagine this vintage photo as a modern, high-resolution portrait taken with a professional DSLR. Preserve the original people, their expressions, clothing, and setting, but enhance everything with natural realism. Accurately colourise skin tones, fabric, and background using soft indoor lighting. Add gentle depth of field to keep the subjects in crisp focus while softly blurring the background. Retain the original atmosphere and cultural context, but modernise the image with clean resolution, rich texture, and true-to-life details.
-
-## Tags
-`image-generation` `vintage-restoration` `portrait` `photo-enhancement` `realism`
-
-## Filename
-`image-vintage-photo-modern-portrait.md`
+> 
